@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Google</title>
+<link type="text/css"rel="stylesheet" href="indexcss.css">
+<link rel="shortcut icon" type="image/png" href="https://www.seeklogo.net/wp-content/uploads/2015/09/new-google-favicon-logo.png" />
+</head>
+<body>
+  <img  src="http://i.kinja-img.com/gawker-media/image/upload/s--pEKSmwzm--/c_scale,fl_progressive,q_80,w_800/1414228815325188681.jpg" id="logo">
+    <div id= "container">
+        <form id="daform">
+          <input type="text" name="search_input" size="65" id="abc" ><br><br>
+          <div>
+            <input type = "submit" value="Google Search" id="buttons">
+            <input type = "submit" value="I'm Feeling Lucky" id="buttons1">
+          </div>
+        </form>
+        <div id="header">
+          <div id="signin">
+            <li><a href="#">Sign in</a></li>
+          </div>
+          <div class="wewimgs">
+            <ul>
+              <li><img src="http://flatfrogblog.com/wp-content/uploads/2014/01/app-launcher-150x150.png"id="appim"></li>
+            </ul>
+          </div>
+          <div class="headlinks">
+  					<ul>
+  						<li><a href="#">Gmail</a></li>
+  						<li><a href="#">Images</a></li>
+  					</ul>
+  				</div>
+
+
+        </div>
+    </div>
+  <div id="footer">
+    <ul class="left">
+      <li><a href="#">Advertising</a></li>
+      <li><a href="#">Business</a></li>
+      <li><a href="#">About</a></li>
+    </ul>
+    <ul class="right">
+      <li><a href="#">Privacy & Terms</a></li>
+      <li><a href="#">Settings</a></li>
+    </ul>
+      </div>
+</body>
+</html>
